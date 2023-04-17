@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true
+}
+
+// archivo que le dice constantemente al vs cuando guarde que formatee el texto y lo ordena y lo prolija xD
